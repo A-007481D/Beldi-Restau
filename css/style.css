@@ -377,7 +377,7 @@ body{
 
 
 .footer{
-	background-image: url(/img/footer.png);
+	background-image: url(img/footer.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
