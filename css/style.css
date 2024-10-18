@@ -208,7 +208,7 @@ body{
 }
 
 .card{
-	background-image: url(/img/cardsbg.png);
+	background-image: url(img/cardsbg.png);
 	display: grid;
 	background-position: center;
 	background-repeat: no-repeat;
