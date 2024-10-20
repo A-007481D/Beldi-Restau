@@ -24,7 +24,7 @@ Ce projet a été réalisé dans le cadre de la mission au sein de l'agence **We
 - **Validations de champs** : Vérification des informations saisies avant l’envoi.
 
 ## Fonctionnalités Bonus
-- **Prototype Figma/Adobe XD** : Utilisation des maquettes pour une intégration fidèle.
+- **Prototype Figma** : Utilisation des maquettes pour une intégration fidèle.
 - **Validation du Code** : Conformité aux standards HTML et CSS via l’outil W3C Validator.
 
 ## Limitations
@@ -32,6 +32,6 @@ Ce projet a été réalisé dans le cadre de la mission au sein de l'agence **We
 
 ## Technologies Utilisées
 - **HTML, CSS** : Pour l'intégration des maquettes en code.
-- **Figma, Adobe XD** : Pour l'analyse des maquettes de départ.
+- **Figma** : Pour l'analyse des maquettes de départ.
 
 Ce projet assure une navigation fluide, une présentation esthétique des offres, et une expérience utilisateur optimisée pour les visiteurs du site.
